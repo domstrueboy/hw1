@@ -1,0 +1,417 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"right",
+				"right-column"
+			],
+			[
+				"sli",
+				"slider-frame"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"font-",
+				"font-weight"
+			],
+			[
+				"blo",
+				"blog-widget"
+			],
+			[
+				"ma",
+				"margin-right"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"mar",
+				"margin-left"
+			],
+			[
+				"b",
+				"block"
+			],
+			[
+				"pdd",
+				"padding-left"
+			],
+			[
+				"re",
+				"relative"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"abs",
+				"absolute"
+			],
+			[
+				"margi",
+				"margin"
+			],
+			[
+				"My",
+				"MyriadPro-SemiboldIt"
+			],
+			[
+				"backg",
+				"background-image"
+			],
+			[
+				"col",
+				"column-feature"
+			],
+			[
+				"a",
+				"absolute"
+			],
+			[
+				"padding",
+				"padding-left"
+			],
+			[
+				"i",
+				"inline-block"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"pad",
+				"padding-bottom"
+			],
+			[
+				"margin-",
+				"margin-bottom"
+			],
+			[
+				"align",
+				"text-align"
+			],
+			[
+				"fo",
+				"footer	Tag"
+			],
+			[
+				"product",
+				"productCollection"
+			],
+			[
+				"t",
+				"table"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"border-r",
+				"border-radius"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"s",
+				"script"
+			],
+			[
+				"div",
+				"div	Tag"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"br",
+				"break"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 35.0,
+		"selected_items":
+		[
+			[
+				"open",
+				"View: Toggle Open Files in Side Bar"
+			],
+			[
+				"Package Control: i",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 464.0
+	},
+	"console":
+	{
+		"height": 153.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/Dropbox/LOFT/hw1/assets/index.html",
+		"/D/Dropbox/LOFT/hw1/public/index.html",
+		"/D/Dropbox/LOFT/hw1/assets/css/main.css",
+		"/D/Dropbox/LOFT/hw1/gulpfile.js",
+		"/C/Users/Струбой/AppData/Local/Temp/Temp1_myriad-pro.zip/style.css",
+		"/C/Users/Струбой/AppData/Local/Temp/Temp1_myriad-pro (2).zip/style.css",
+		"/D/Новая папка/myriad-pro.cufonfonts.js",
+		"/D/Dropbox/LOFT/hw1/package.json",
+		"/D/Dropbox/LOFT/hw1/node_modules/gulp-util/lib/isNull.js",
+		"/D/Dropbox/LOFT/hw1/node_modules/gulp-csso/node_modules/csso/docs/install/install.en.md",
+		"/D/Dropbox/LOFT/hw1/node_modules/gulp-myth/node_modules/myth/node_modules/autoprefixer/lib/autoprefixer/hacks/align-content.js",
+		"/D/Dropbox/LOFT/hw1/var4.html",
+		"/D/Dropbox/LOFT/hw1/assets/js/main.js",
+		"/D/Dropbox/LOFT/hw1/public/css/main.css",
+		"/D/Dropbox/LOFT/hw1/assets/fonts/preview.html",
+		"/D/Dropbox/LOFT/hw1/assets/fonts/styles.css",
+		"/D/Dropbox/LOFT/hw1/public/js/main.js",
+		"/D/Dropbox/LOFT/hw1/subj/index.html",
+		"/D/Dropbox/LOFT/hw1/subj/js/main.js",
+		"/D/Dropbox/LOFT/hw1/subj/css/main.css",
+		"/D/Dropbox/LOFT/hw1/subj/gulpfile.js",
+		"/H/Dropbox/LOFT/hw1/subj/index.html",
+		"/H/Dropbox/LOFT/hw1/subj/js/main.js",
+		"/H/Dropbox/LOFT/hw1/subj/css/main.css",
+		"/C/Documents and Settings/user/Рабочий стол/__Prog/_Номера программ.txt",
+		"/H/Dropbox/LOFT/hw1/subj/gulpfile.js",
+		"/H/Dropbox/tests/irmologion/stylesheet.css",
+		"/H/Dropbox/tests/irmologion/index.html",
+		"/H/Dropbox/LOFT/hw1/subj/js/vendor/bootstrap.min.js",
+		"/H/Dropbox/LOFT/hw1/subj/css/bootstrap.min.css",
+		"/H/Dropbox/LOFT/hw1/subj/fonts/glyphicons-halflings-regular.svg",
+		"/H/Dropbox/LOFT/hw1/subj/humans.txt",
+		"/H/Dropbox/Tests/backbone/css/screen.css",
+		"/H/Dropbox/Tests/backbone/index.html",
+		"/H/Dropbox/Tests/backbone/js/app.js",
+		"/H/Dropbox/Tests/backbone/backbone.sublime-project",
+		"/C/Documents and Settings/user/Local Settings/Temp/Rar$DI00.313/1.txt",
+		"/C/Documents and Settings/user/Local Settings/Temp/Rar$DI02.469/1.txt",
+		"/H/Dropbox/Дмт Лфрв.txt",
+		"/H/Dropbox/Генеалогическое древо.txt",
+		"/H/Dropbox/Дневник.txt",
+		"/C/Documents and Settings/user/Local Settings/Temp/Rar$DI01.734/1.txt",
+		"/H/Dropbox/Служба/Шпаргалка, чтобы выучить правило.txt",
+		"/H/Dropbox/Книги на телефоне и в читалке/Вечернее правило.txt",
+		"/H/Dropbox/Служба/Схема богослужения.txt",
+		"/H/Dropbox/hello2.html",
+		"/C/Documents and Settings/user/Local Settings/Temp/Rar$DI01.484/1.txt",
+		"/H/Новая папка/Святитель Феофан Затворник - Полное собрание творений - 2008.doc/Болезнь и смерть.txt",
+		"/C/Documents and Settings/user/Local Settings/Temp/Rar$DI00.922/1.txt",
+		"/C/Documents and Settings/user/Local Settings/Temp/Rar$DI01.407/1.txt",
+		"/H/Бобылёв/Блоки фильтров/Серия/Т-800/Размеры фильтров 800.txt",
+		"/H/Бобылёв/__Prog/_Номера программ.txt",
+		"/H/Dropbox/maketir/localhost/wp-content/themes/maketir/index.php",
+		"/H/Dropbox/maketir/localhost/index.php",
+		"/C/Documents and Settings/user/Local Settings/Temp/Rar$DI00.125/1.txt",
+		"/C/Documents and Settings/user/Local Settings/Temp/Rar$DI00.625/zp-mc-cg-11m8.txt",
+		"/H/Бобылёв/Блоки фильтров/Серия/Т-550/Размеры фильтров 550.txt",
+		"/H/Dropbox/Отец Ярослав, здравствуйте.txt",
+		"/C/Documents and Settings/user/Local Settings/Temp/Rar$DI00.531/1.txt",
+		"/C/Documents and Settings/user/Local Settings/Temp/Rar$DI00.281/1.txt",
+		"/C/Documents and Settings/user/Local Settings/Temp/Rar$DI03.969/1.txt",
+		"/C/Documents and Settings/user/Local Settings/Temp/Rar$DI01.125/1.txt",
+		"/H/Dropbox/Tests/objects/main.js",
+		"/H/Dropbox/Tests/objects/index.html",
+		"/H/Dropbox/Tests/objects/style.css",
+		"/H/Dropbox/Tests/objects/main.css",
+		"/H/Новая папка/demo (1)/js/app.js",
+		"/H/Новая папка/demo (1)/css/screen.css",
+		"/H/Новая папка/demo (1)/index.html",
+		"/H/Dropbox/maketir.ru/maketir.ru/css/main.css",
+		"/H/Dropbox/Tests/backbone/js/json2.js",
+		"/H/Dropbox/Tests/backbone/js/underscore-min.js",
+		"/H/Dropbox/maketir.ru/maketir.ru/css/bootmetro.min.css",
+		"/H/Dropbox/maketir.ru/maketir.ru/index.html",
+		"/H/Dropbox/maketir.ru/maketir.ru/js/main.js",
+		"/H/Dropbox/engine6/index.html",
+		"/H/Dropbox/maketir.ru/lightbox/index.html",
+		"/H/Dropbox/engine6/index2.html",
+		"/H/Dropbox/algor.txt",
+		"/H/Dropbox/Aspect/index2.html",
+		"/H/Dropbox/maketir.ru/jflickrfeed/example.html",
+		"/H/Dropbox/maketir.ru/jflickrfeed/setup.js",
+		"/H/Dropbox/maketir.ru/social-feed-master/index.html",
+		"/H/Dropbox/maketir.ru/social-feed-master/template.html",
+		"/H/Dropbox/maketir.ru/maketir.ru/template.html",
+		"/H/Dropbox/maketir.ru/social-feed-master (социальные сети на сайте).zip",
+		"/H/Dropbox/maketir.ru/materials.maketir.ru/index.html",
+		"/H/Dropbox/Aspect/index.html"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"70px",
+			"class",
+			"class\n",
+			"class*\n",
+			"class\n",
+			"\">\n",
+			"span",
+			".\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"div"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		},
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.467960354071,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 0.0
+	},
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"packages",
+				"package.json"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"H:\\Dropbox\\maketir.ru\\maketir.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 50.0,
+	"status_bar_visible": true
+}
